@@ -1,0 +1,35 @@
+_repo: George-FoxAn-Autobiography_43031
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fox, George
+    alias: Fox, G. (George)
+    birthdate: 1624
+    deathdate: 1691
+    gutenberg_agent_id: '41992'
+    url: http://www.gutenberg.org/2009/agents/41992
+  editor:
+    agent_name: Jones, Rufus M. (Rufus Matthew)
+    alias: Jones, Rufus Matthew
+    birthdate: 1863
+    deathdate: 1948
+    gutenberg_agent_id: '6478'
+    url: http://www.gutenberg.org/2009/agents/6478
+    wikipedia: http://en.wikipedia.org/wiki/Rufus_Jones
+description: ''
+gutenberg_issued: '2013-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fox, George, 1624-1691'
+- !lcc 'BX'
+title: 'George Fox: An Autobiography'
+url: http://www.gutenberg.org/ebooks/43031
