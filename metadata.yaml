@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6478
     wikipedia: http://en.wikipedia.org/wiki/Rufus_Jones
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43031#George-FoxAn-Autobiography
 gutenberg_issued: '2013-06-24'
 gutenberg_type: Text
 identifiers:
